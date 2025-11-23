@@ -1,0 +1,5 @@
+{
+  "name": "GitInsight - AI Profile Analyzer",
+  "description": "A GitHub profile search tool enhanced with Gemini AI to provide professional summaries, skill analysis, and repository insights.",
+  "requestFramePermissions": []
+}
